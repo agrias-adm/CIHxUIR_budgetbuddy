@@ -224,34 +224,5 @@ cih_budgetbuddy/
 
 ---
 
-## 🚀 Future Enhancements
-
-- [ ] Backend API integration
-- [ ] Real user authentication
-- [ ] Database persistence
-- [ ] Push notifications
-- [ ] Export reports (PDF/CSV)
-- [ ] Multi-currency support
-- [ ] Advanced analytics & charts
-
----
-
-## 📝 License
-
-This project is part of the CIHxUIR initiative.
-
----
-
-## 👥 Contributors
-
-- **Team**: CIHxUIR Development Team
-
----
-
-## 📞 Support
-
-For questions or issues, please refer to the project documentation or open an issue on GitHub.
-
----
 
 **Built with ❤️ using React, Vite, and TailwindCSS**
